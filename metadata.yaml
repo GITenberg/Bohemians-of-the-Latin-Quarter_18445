@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6197
     wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18445#Bohemians-of-the-Latin-Quarter
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2006-05-27'
 gutenberg_type: Text
